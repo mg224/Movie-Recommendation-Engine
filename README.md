@@ -1,4 +1,4 @@
-# Movie Recommendation Engine using Python, Scikit Learn, Pandas, NumPy
+# Movie Recommendation Engine using Python, Scikit Learn, Pandas
 
 ### Dataset associated with this tutorial can be found in movie_dataset.csv file.
 
